@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **a game development project**
 
-- 🌱 I’m currently learning **Frameworks - JavaScript**
+- 🌱 I’m currently learning **Blockchain**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Gatorfma](https://github.com/Gatorfma)
 
