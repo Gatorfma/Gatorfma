@@ -1,4 +1,4 @@
- [![MasterHead](https://www.educative.io/api/page/6096075812241408/image/download/6443342641496064)
+
 <h1 align="center">Hi 👋, I'm Furkan Mert Aksakal</h1>
 <h3 align="center">A CS Student at Bilkent University</h3>
 <p align="left"> <a href="https://twitter.com/fm_aksakal" target="blank"><img src="https://img.shields.io/twitter/follow/fm_aksakal?logo=twitter&style=for-the-badge" alt="fm_aksakal" /></a> </p>
