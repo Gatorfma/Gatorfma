@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **an AI Project**
 
-- 🌱 I’m currently learning **Blockchain**
+- 🌱 I’m currently learning **LLMs**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Gatorfma](https://github.com/Gatorfma)
 
