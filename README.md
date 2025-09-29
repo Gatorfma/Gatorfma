@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **C++, Java, and Solidity**
 
-- 📫 How to reach me **furkanmertaksakal@gmail.com**
+- 📫 How to reach me **mert.aksakal@ug.bilkent.edu.tr**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
